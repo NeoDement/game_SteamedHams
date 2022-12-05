@@ -1,0 +1,209 @@
+
+*** Lines for character Skinner (ID 0) ***
+
+&7 I were to purchase fast food...
+&8 ...and disguise it as my own cooking?
+&9 Oh ho ho ho ho ho!
+&10 Delightfully devilish, Seymour.
+&13 Just stretching my calves on the windowsill.
+&14 Isometric exercise.
+&15 Care to join me?
+&16 Uh-
+&17 Oh. That isn't smoke.
+&18 It's steam.
+&19 Steam from the steamed clams we're having.
+&20 Mmm.
+&21 Steamed clams.
+&22 Whew.
+&24 Oh, no. I said steamed hams.
+&25 That's what I call hamburgers.
+&26 Yes.
+&27 It's a regional dialect.
+&28 Uh, upstate New York.
+&29 Oh, not in Utica. No.
+&30 It's an Albany expression.
+&31 Oh ho ho ho no!
+&32 Patented Skinner Burgers.
+&33 Old family recipe!
+&34 Yes.
+&35 Y-- You know th-- One thing I sh--
+&36 Excuse me for one second...
+&37 Well, that was wonderful.
+&38 Good time was had by all, I'm pooped.
+&39 Aurora Borealis.
+&40 Yes.
+&41 No.
+&50 Hello... I'm uh... I'm...
+&3 I hope you're prepared for an unforgettable luncheon!
+&54 I seem to have soiled myself.
+&45 No!
+&52 Fat chance.
+&46 No!
+&16 Uhh.
+&44 Uhh...
+&12 Uh.
+&47 Riveting.
+&53 *ahem* Hello...
+&23 Superintendent, I hope you're ready for mouthwatering hamburgers.
+&43 Mouthwatering hamburgers.
+&48 Truly a standard deviation above the mean.
+&49 I'm afraid we're stuck here for the duration.
+&1 Ahhh, Superintendent Chalmers!
+&2 Welcome!
+&51 Above average.
+&4 Oh, ye Gods!
+&5 My roast is ruined!
+&6 But what if...
+&11 Superintendent, I was just-
+&12 Uh-
+&42 No, mother, it's just the Northern Lights.
+
+*** Lines for character Chalmers (ID 1) ***
+
+&6 Why is there smoke coming out of your oven, Seymour?
+&8 You call hamburgers steamed hams?
+&9 Uh huh.
+&10 Uh, what region?
+&11 Really.
+&12 Well, I'm from Utica and I've never heard...
+&13 ...anyone use the phrase \"steamed hams.\"
+&14 I see.
+&15 You know, these hamburgers are quite similar...
+&16 ...to the ones they have at Krusty Burger.
+&17 For steamed hams?
+&18 Yes, and you call them steamed hams...
+&19 ...despite the fact that they are obviously grilled.
+&20 Of course.
+&21 Yes, I should be-
+&22 GOOD LORD! What is happening in there?
+&23 Ah-
+&24 Aurora Borealis?
+&25 AT THIS TIME OF YEAR!?
+&26 AT THIS TIME OF DAY?!
+&27 IN THIS PART OF THE COUNTRY!?
+&28 LOCALIZED ENTIRELY WITHIN YOUR KITCHEN!?!?
+&29 May I see it?
+&3 Nyeh.
+&7 I thought we were having steamed clams.
+&1 Well Seymour, I made it...
+&2 Despite your directions.
+&4 Uh-
+&30 Well, Seymour, you are an odd fellow.
+&31 But I must say...
+&32 You steam a good ham.
+&5 SEYMOUR!!!
+
+*** Lines for character Agnes (ID 2) ***
+
+&1 Seymour!
+&2 The house is on fire!
+&3 Help!
+&4 HELP!
+
+*** All text lines, in order of appearance in the scripts ***
+
+cSkinner: &7 I were to purchase fast food...
+cSkinner: &8 ...and disguise it as my own cooking?
+cSkinner: &9 Oh ho ho ho ho ho!
+cSkinner: &10 Delightfully devilish, Seymour.
+cSkinner: &13 Just stretching my calves on the windowsill.
+cSkinner: &14 Isometric exercise.
+cSkinner: &15 Care to join me?
+cChalmers: &6 Why is there smoke coming out of your oven, Seymour?
+cSkinner: &16 Uh-
+cSkinner: &17 Oh. That isn't smoke.
+cSkinner: &18 It's steam.
+cSkinner: &19 Steam from the steamed clams we're having.
+cSkinner: &20 Mmm.
+cSkinner: &21 Steamed clams.
+cSkinner: &22 Whew.
+cSkinner: &24 Oh, no. I said steamed hams.
+cSkinner: &25 That's what I call hamburgers.
+cChalmers: &8 You call hamburgers steamed hams?
+cSkinner: &26 Yes.
+cSkinner: &27 It's a regional dialect.
+cChalmers: &9 Uh huh.
+cChalmers: &10 Uh, what region?
+cSkinner: &28 Uh, upstate New York.
+cChalmers: &11 Really.
+cChalmers: &12 Well, I'm from Utica and I've never heard...
+cChalmers: &13 ...anyone use the phrase \"steamed hams.\"
+cSkinner: &29 Oh, not in Utica. No.
+cSkinner: &30 It's an Albany expression.
+cChalmers: &14 I see.
+cChalmers: &15 You know, these hamburgers are quite similar...
+cChalmers: &16 ...to the ones they have at Krusty Burger.
+cSkinner: &31 Oh ho ho ho no!
+cSkinner: &32 Patented Skinner Burgers.
+cSkinner: &33 Old family recipe!
+cChalmers: &17 For steamed hams?
+cSkinner: &34 Yes.
+cChalmers: &18 Yes, and you call them steamed hams...
+cChalmers: &19 ...despite the fact that they are obviously grilled.
+cSkinner: &35 Y-- You know th-- One thing I sh--
+cSkinner: &36 Excuse me for one second...
+cChalmers: &20 Of course.
+cSkinner: &37 Well, that was wonderful.
+cSkinner: &38 Good time was had by all, I'm pooped.
+cChalmers: &21 Yes, I should be-
+cChalmers: &22 GOOD LORD! What is happening in there?
+cSkinner: &39 Aurora Borealis.
+cChalmers: &23 Ah-
+cChalmers: &24 Aurora Borealis?
+cChalmers: &25 AT THIS TIME OF YEAR!?
+cChalmers: &26 AT THIS TIME OF DAY?!
+cChalmers: &27 IN THIS PART OF THE COUNTRY!?
+cChalmers: &28 LOCALIZED ENTIRELY WITHIN YOUR KITCHEN!?!?
+cSkinner: &40 Yes.
+cChalmers: &29 May I see it?
+cSkinner: &41 No.
+cSkinner: &50 Hello... I'm uh... I'm...
+cChalmers: &3 Nyeh.
+cSkinner: &3 I hope you're prepared for an unforgettable luncheon!
+cChalmers: &3 Nyeh.
+cSkinner: &54 I seem to have soiled myself.
+cChalmers: &3 Nyeh.
+cSkinner: &50 Hello... I'm uh... I'm...
+cChalmers: &3 Nyeh.
+cSkinner: &54 I seem to have soiled myself.
+cChalmers: &3 Nyeh.
+cSkinner: &41 No.
+cSkinner: &45 No!
+cSkinner: &52 Fat chance.
+cSkinner: &46 No!
+cSkinner: &16 Uhh.
+cSkinner: &44 Uhh...
+cSkinner: &12 Uh.
+cSkinner: &47 Riveting.
+cSkinner: &53 *ahem* Hello...
+cSkinner: &23 Superintendent, I hope you're ready for mouthwatering hamburgers.
+cChalmers: &7 I thought we were having steamed clams.
+cSkinner: &43 Mouthwatering hamburgers.
+cChalmers: &3 Nyeh.
+cSkinner: &48 Truly a standard deviation above the mean.
+cSkinner: &49 I'm afraid we're stuck here for the duration.
+cChalmers: &1 Well Seymour, I made it...
+cChalmers: &2 Despite your directions.
+cSkinner: &1 Ahhh, Superintendent Chalmers!
+cSkinner: &2 Welcome!
+cSkinner: &3 I hope you're prepared for an unforgettable luncheon!
+cChalmers: &3 Nyeh.
+cSkinner: &49 I'm afraid we're stuck here for the duration.
+cSkinner: &51 Above average.
+cSkinner: &4 Oh, ye Gods!
+cSkinner: &5 My roast is ruined!
+cSkinner: &4 Oh, ye Gods!
+cSkinner: &5 My roast is ruined!
+cSkinner: &6 But what if...
+cChalmers: &4 Uh-
+cSkinner: &11 Superintendent, I was just-
+cSkinner: &12 Uh-
+cScroller: &1 Seymour!
+cScroller: &2 The house is on fire!
+cSkinner: &42 No, mother, it's just the Northern Lights.
+cChalmers: &30 Well, Seymour, you are an odd fellow.
+cChalmers: &31 But I must say...
+cChalmers: &32 You steam a good ham.
+cScroller: &3 Help!
+cScroller: &4 HELP!
+cChalmers: &5 SEYMOUR!!!
