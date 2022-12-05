@@ -1,4 +1,4 @@
-# game_SteamedHams
+# Steamed Hams: The Graphic Adventure
 
 Fangame based on the famous Simpsons segment "Steamed Hams"
 
